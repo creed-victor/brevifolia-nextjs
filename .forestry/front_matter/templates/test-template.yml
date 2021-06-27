@@ -14,3 +14,11 @@ fields:
 - type: file
   name: hero_image
   label: hero_image
+- name: fghff
+  type: blocks
+  label: fghff
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: fhfhfhdfhdh
